@@ -1,5 +1,3 @@
--- Source: omarchy-kawabi-neon-theme/hyprland.conf
-
 local activeBorderColor = {
   colors = { "rgba(e14fe0ee)", "rgba(87f96bee)" },
   angle = 45,

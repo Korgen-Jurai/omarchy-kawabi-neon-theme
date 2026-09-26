@@ -15,7 +15,7 @@ omarchy theme install https://github.com/Korgen-Jurai/omarchy-kawabi-neon-theme.
 ## What's included
 
 - Terminal palette (`colors.toml`) — drives Alacritty, Kitty, Foot, Ghostty, btop, VS Code, Obsidian, and more via Omarchy's built-in templates
-- Hyprland gaps/borders/rounding/animations (`hyprland.conf`, `hyprland.lua`)
+- Hyprland gaps/borders/rounding/animations (`hyprland.lua`)
 - Icon theme pointer (`icons.theme` → Yaru-magenta-dark)
 - Wallpaper (`backgrounds/1-kawabi-neon-girl.jpg`)
 
